@@ -5,7 +5,7 @@ If you're part of #teamtanay community then you win a book as well. Just somethi
 
 Hello! 
 
-(### participate)(./challenge.md)
+### [ready to participate?](./challenge.md)
 
 ## motivation
 One way to get recognition in industry is to speak in tech events. I attended the Discord Live today and it's heartening to see such amazing speakers amongst us. 
@@ -45,3 +45,7 @@ See you can get all the startup jobs here with jobChallenge.
 But if you want to go to Europe/Canada/Australia/Aisa etc. you have to start speaking in community.
 I don't ask you to waste your time which won't be helpful in the long run
 I just want you all to start early. Right now you can take all pressure. So push yourself more.
+
+## ready to participate?
+
+Go to the [challenge page](./challenge.md) to know how to register yourself. 
