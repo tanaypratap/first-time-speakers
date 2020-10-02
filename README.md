@@ -14,7 +14,11 @@ See, I can't give you money to motivate you. But here's another challenge open f
 
 ## challenge 
 
-Speak in one of the community events. ReactJS Bangalore, JSMeetup, etc. I know the organisers, they're helpful to get new people in. You don't have to speak for 30-40 minutes. Prepare a small 10 minutes talk on any topic you like (related to engineering/dev). Prepare 10 slides and apply to speak. 
+Speak in one of the community events. 
+- ReactJS Bangalore, 
+- JSMeetup, etc. (more names coming here soon, if you're an organiser, please see [register your meetup/conf page](./register-conf.md))
+
+I know the organisers, they're helpful to get new people in. You don't have to speak for 30-40 minutes. Prepare a small 10 minutes talk on any topic you like (related to engineering/dev). Prepare 10 slides and apply to speak. 
 
 ## prize
 
@@ -38,9 +42,11 @@ Speak in one of the community events. ReactJS Bangalore, JSMeetup, etc. I know t
 ## how to do you benefit by speaking out?
 
 ### communication
+
 Communication is key in any job, even as engineers we need to talk to our team members. When foreign companies want to hire you they can see your code, read your blog, but how do they know that you are fluent in English? Your talks recorded on YT helps with this..
 
 ### jobs
+
 See you can get all the startup jobs here with jobChallenge. 
 But if you want to go to Europe/Canada/Australia/Aisa etc. you have to start speaking in community.
 I don't ask you to waste your time which won't be helpful in the long run
