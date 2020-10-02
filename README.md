@@ -5,7 +5,7 @@ If you're part of #teamtanay community then you win a book as well. Just somethi
 
 Hello! 
 
-### [ready to participate?](./challenge.md)
+### [I am sold! where do I signup?](./challenge.md)
 
 ## motivation
 One way to get recognition in industry is to speak in tech events. I attended the Discord Live today and it's heartening to see such amazing speakers amongst us. 
