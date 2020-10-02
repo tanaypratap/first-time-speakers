@@ -32,3 +32,14 @@ Speak in one of the community events. ReactJS Bangalore, JSMeetup, etc. I know t
 
 - Nothing, you need to take the lead. 
 - When presenting, as a courtesy, I expect you to thank the community which has helped you getting started.
+
+## how to do you benefit by speaking out?
+
+### communication
+Communication is key in any job, even as engineers we need to talk to our team members. When foreign companies want to hire you they can see your code, read your blog, but how do they know that you are fluent in English? Your talks recorded on YT helps with this..
+
+### jobs
+See you can get all the startup jobs here with jobChallenge. 
+But if you want to go to Europe/Canada/Australia/Aisa etc. you have to start speaking in community.
+I don't ask you to waste your time which won't be helpful in the long run
+I just want you all to start early. Right now you can take all pressure. So push yourself more.
