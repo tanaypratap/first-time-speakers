@@ -48,7 +48,7 @@ Communication is key in any job, even as engineers we need to talk to our team m
 ### jobs
 
 See you can get all the startup jobs here with jobChallenge. 
-But if you want to go to Europe/Canada/Australia/Aisa etc. you have to start speaking in community.
+But if you want to go to Europe/Canada/Australia/Asia etc. you have to start speaking in community.
 I don't ask you to waste your time which won't be helpful in the long run
 I just want you all to start early. Right now you can take all pressure. So push yourself more.
 
